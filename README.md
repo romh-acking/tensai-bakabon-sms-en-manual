@@ -8,3 +8,10 @@ This repository manual resources for an English translation of Tensai Bakabon fo
 
 
 The source code for the translation is located at [tensai-bakabon-sms-en](https://github.com/romh-acking/tensai-bakabon-sms-en).
+
+## Fonts
+The logo (in-game and in the manual) uses two fonts:
+* "The genius": Samurai Warrior
+* "Bakabon": Taped Up Tight
+
+Everything else uses "A-OTF Shin Go Pro". This is a standard Japanese font you commonly see in video game font (or at least ones extremely close to it).
